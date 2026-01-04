@@ -1,0 +1,24 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css"/>
+    <title> Master IoTBigData--- Plateformes et protocoles de l'IoT </title>
+</head>
+<body>
+    <h1>Welcome to temperatureSense application in NodeJS</h1>
+
+    <div id="protectedContent"></div>
+    <form method = "post">
+    <h2>Please log into your account ...</h2>
+    <label for = "username"><b>Username : </b></label>
+    <input type = "text" id = "username" placeholder = "Enter your username" name = "username">
+    <label for = "password"><b>Password : </b></label>
+    <input type = "password" id = "password" placeholder = "Enter your password" name = "password">
+    <br>  
+    <button class = "button" type = "submit" id = "loginButton"  formaction = "/auth">   Submit </button>
+    <button class = "button" type = "submit" id = "cancelButton" formaction = "/cancel"> Cancel </button>
+    </form>
+</body>
+</html>

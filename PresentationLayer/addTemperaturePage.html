@@ -1,0 +1,26 @@
+<!DOCTYPE html> <html lang = "en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="styles.css"/>
+    <title> Master IoTBigData--- Plateformes et protocoles de l'IoT </title>
+  </head>
+  <body>
+  <header>
+    <h1>Welcome to temperatureSense application in NodeJS</h1>
+    <h2>Add new temperature measure ...</h2>
+  </header>
+  <form method = "post">    
+    <div class = "container">
+    <label for = "temperatureCluster"><b>Temperature Cluster: </b></label>
+    <input type = "text" placeholder = "Enter cluster name" name = "temperatureCluster">
+    <label for = "temperatureSensor"><b>Temperature Sensor: </b></label>
+    <input type = "text" placeholder = "Enter sensor name" name = "temperatureSensor">
+    <label for = "temperatureValue"><b>Temperature Value: </b></label>
+    <input type = "number" placeholder = "Enter temperature value" name = "temperatureValue" >
+    <br><br>  
+    <button class = "button" type = "submit" id = "submitButton"  formaction = "/addTemperatureSubmit"> Submit </button>
+    <button class = "button" type = "submit" id = "cancelButton"  formaction = "/cancelRequest"> Cancel </button>
+    </div> 
+  </form>
+  </body>
+</html>
