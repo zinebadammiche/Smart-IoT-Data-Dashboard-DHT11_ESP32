@@ -191,7 +191,7 @@ The server listens by default on [http://localhost:3000](http://localhost:3000).
 ---
 
 ### 5️⃣ Open the Web Interface
-```bash![Uploading Capture d'écran 2026-01-04 223051.png…]()
+```bash 
 
 Open PresentationLayer/homePage.html in your browser at http://localhost:3000/home
 ```
