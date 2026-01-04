@@ -1,7 +1,7 @@
 # Smart IoT Data Dashboard – DHT11 & ESP32
 
-**Supervisor:** ENNOUAARY Abdeslam
-**Team Members:** SARAOUI Zineb | BAKRIM Sana | **ADAMMICHE Zineb** | BENALI Amine
+**Supervisor:** ENNOUAARY Abdeslam \\
+**Team Members:** SARAOUI Zineb | BAKRIM Sana | **ADAMMICHE Zineb** | BENALI Amine \\
 **Institution:** INPT – Master IoT & Big Data
 
 ---
