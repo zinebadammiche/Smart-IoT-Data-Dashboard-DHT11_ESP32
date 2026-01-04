@@ -215,5 +215,7 @@ DHT Library   # Arduino sensor library
 
 ## 💻 Authors
 **Supervisor:** ENNOUAARY Abdeslam
+
 **Team:** SARAOUI Zineb | BAKRIM Sana | ADAMMICHE Zineb | BENALI Amine
+
 **Institution:** INPT – Master IoT & Big Data
