@@ -191,7 +191,8 @@ The server listens by default on [http://localhost:3000](http://localhost:3000).
 ---
 
 ### 5️⃣ Open the Web Interface
-```bash
+```bash![Uploading Capture d'écran 2026-01-04 223051.png…]()
+
 Open PresentationLayer/homePage.html in your browser at http://localhost:3000/home
 ```
 
@@ -219,3 +220,4 @@ DHT Library   # Arduino sensor library
 **Team:** SARAOUI Zineb | BAKRIM Sana | ADAMMICHE Zineb | BENALI Amine
 
 **Institution:** INPT – Master IoT & Big Data
+
