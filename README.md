@@ -22,6 +22,57 @@ This project is a **smart IoT system** designed to collect, store, and visualize
 
 ---
 
+## 1️⃣ Aperçu du Dashboard
+
+### Page d’accueil
+![Home](images/Home.png)
+
+### Login
+![Login](images/Login.png)
+
+### Dashboard
+![Dashboard](images/Dashboard.png)
+
+---
+
+## 2️⃣ Données de Température
+
+### Première mesure
+![First Temp](images/FirstTemp.png)
+
+### Dernière mesure
+![Last Temp](images/LastTemp.png)
+
+### Liste des mesures
+![Temp List](images/TempList.png)
+
+---
+
+## 3️⃣ Données d’Humidité
+
+### Première mesure
+![First Humidity](images/FirstHumidity.png)
+
+### Dernière mesure
+![Last Humidity](images/LastHumidity.png)
+
+### Liste des mesures
+![Humidity List](images/HumidityList.png)
+
+---
+
+## 4️⃣ Logs et Surveillance
+
+### Logs Node
+![Logs Node](images/LogsNode.png)
+
+### Monitor Arduino IDE (ESP32 + DHT11)
+![Serial Monitor](images/SerialMonitorArduinoIde_ESP32-DHT11.png)
+
+---
+
+## 5️⃣ À propos
+![About](images/About.png)
 ## 🏗️ Project Architecture
 
 ### 1️⃣ Presentation Layer (Front-end)
